@@ -1,2 +1,26 @@
-
 /* Your CSS Code here. */
+table,th,tr,td{
+	border: 2px solid black;
+	border-collapse:collapse;
+}
+table{
+	width:100%;
+}
+.left{
+	text-align:left;
+}
+.right{
+	text-align:right;
+}
+#first{
+	background:rgb(171, 0, 0);
+}
+#second{
+	background:rgb(224, 60, 45);
+}
+#third{
+	background:rgb(255, 197, 153);
+}
+#fourth{
+	background:rgb(132, 173, 95);
+}
